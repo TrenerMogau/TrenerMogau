@@ -8,8 +8,8 @@
   *Passionate about crafting cloud-native infrastructure, streamlining DevOps pipelines, and engineering AI-powered developer tooling.*
   
   <p align="center">
-    <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="YOUR_PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mogau-mothapo-trener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://trenermogau.github.io/website-portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
   </p>
 </div>
 
