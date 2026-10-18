@@ -1,100 +1,134 @@
+ <!-- 🌷 HEADER -->
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Cloud Developer">
-  
-  # Hi there, I'm Trener Mogau! 👋
-  
-  ### ☁️ Cloud Engineer • ⚙️ DevOps Automator • 🏗️ Platform Builder
-  
-  *Passionate about crafting cloud-native infrastructure, streamlining DevOps pipelines, and engineering AI-powered developer tooling.*
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mogau-mothapo-trener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://mogau.niatren.com"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,50:C9B6FF,100:E0C3FC&height=200&section=header&text=hey,%20I'm%20Trener!%20☁️&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=software%20engineer%20in%20the%20making%20✿&descSize=16&descAlignY=55" width="100%" alt="Pastel blue and lavender waving header" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=9B8AFB&center=true&vCenter=true&width=500&lines=building+things+that+make+life+easier+%E2%9C%A8;learning+cloud+%26+AI+engineering+%E2%98%81%EF%B8%8F;turning+coffee+%26+ideas+into+code+%F0%9F%92%BB;one+commit+at+a+time+%F0%9F%8C%B1" alt="Typing animation" />
+</a>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-C9B6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://mogau.niatren.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8EC5FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mogau-mothapo-trener)
+[![GitHub](https://img.shields.io/badge/GitHub-303446?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrenerMogau)
+
 </div>
 
 ---
 
-### 🚀 What I'm Up To
+### 🌷 a little about me
+
+```yaml
+name: Mogau Mothapo
+nickname: Trener
+location: Cape Town, South Africa 🇿🇦
+currently: Software Engineering @ WeThinkCode_
+journey: Software Engineering → Cloud & AI Engineering
+building_with: Java, Python, TypeScript & cloud technologies
+interests:
+  - ☁️ Cloud architecture & DevOps
+  - 🤖 AI engineering & intelligent applications
+  - 🛠️ Backend systems & software architecture
+  - 🔐 Secure, reliable software
+motto: "learn a little, build a little, grow every day 🌱"
+```
+
+### 🧸 my tech playground
+
+<div align="center">
+
+**languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,bash,sql&theme=light" alt="Java, Python, TypeScript, JavaScript, Bash and SQL" />
+
+**web & backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,supabase&theme=light" alt="React, Next.js, Node.js, PostgreSQL and Supabase" />
+
+**cloud & dev tools**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,githubactions,gitlab&theme=light" alt="AWS, Azure, Docker, Linux, Git, GitHub, GitHub Actions and GitLab" />
+
+</div>
+
+<sub>🌱 Always learning. Still growing. Never pretending to know it all.</sub>
+
+---
+
+### 🪄 things i'm building & exploring
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="48" height="48" alt="Books" />
-    </td>
-    <td>
-      <b>Currently Preparing For:</b> Microsoft Azure Fundamentals (AZ-900)
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="48" height="48" alt="Laptop" />
-    </td>
-    <td>
-      <b>Hands-on Labs:</b> Tackling KodeKloud Engineer tasks (Docker, Git, Linux, AWS, Azure, CI/CD)
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="48" height="48" alt="Rocket" />
-    </td>
-    <td>
-      <b>Core Focus:</b> Progressing into Platform Engineering & Infrastructure as Code (IaC)
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="48" height="48" alt="Magnifying Glass" />
-    </td>
-    <td>
-      <b>Recent Deep Dive:</b> AWS & Terraform infrastructure automation
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ Cloud engineering**
+
+Exploring cloud infrastructure, deployment workflows, containers, and the systems that keep applications running.
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI engineering**
+
+Learning how to turn AI capabilities into useful applications, intelligent workflows, and practical developer tools.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 System design**
+
+Studying how to design software that stays maintainable, reliable, and scalable as it grows.
+
+</td>
+<td width="50%" valign="top">
+
+**🛠️ Building for real people**
+
+Working on web applications, business platforms, automation, and software that solves actual problems.
+
+</td>
+</tr>
 </table>
 
----
+### 🌟 things i've worked on
 
-### 💻 Tech Stack & Arsenal
+- 🧱 **[System Design Compilation](https://github.com/TrenerMogau/system-design-compilation)** — a collection of system design learning resources.
+- 🛍️ **[SupaCommerce](https://github.com/TrenerMogau/supacommerce)** — explore my commerce-related development work.
+- 🌐 **[My Portfolio](https://mogau.niatren.com)** — more about me and the things I build.
+
+### 📊 my GitHub corner
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,java,bash,sql" alt="Languages" /><br><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,linux,ubuntu" alt="Cloud and Infra" /><br><br>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab" alt="DevOps" />
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TrenerMogau&show_icons=true&hide_border=true&bg_color=F8F7FF&title_color=8B7CF6&icon_color=8B7CF6&text_color=50546B&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrenerMogau&layout=compact&hide_border=true&bg_color=F8F7FF&title_color=8B7CF6&text_color=50546B" alt="Most-used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=TrenerMogau&hide_border=true&background=F8F7FF&ring=8B7CF6&fire=FF9EC4&currStreakLabel=8B7CF6&sideLabels=50546B&currStreakNum=50546B&sideNums=50546B&dates=85859A" alt="GitHub contribution streak" />
+
+</div>
+
+### 🐍 watch my contributions go by!
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TrenerMogau/TrenerMogau/output/github-contribution-grid-snake.svg" alt="A snake animation moving through my GitHub contribution graph" width="100%" />
+
 </div>
 
 ---
 
-### 🏆 Featured Projects & Experience
-
-<br>
-
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" />
-<h4><a href="#">Robot Worlds</a></h4>
-<p><b>Java Client-Server Architecture</b><br>
-Engineered a robust client-server architecture in Java. Boosted test coverage from 26% to >90% and built automated CI/CD pipelines for compilation and inter-team testing.</p>
-
-<br clear="left"/>
-
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Herb.png" alt="Herb" />
-<h4><a href="#">Healing Botanicals</a></h4>
-<p><b>Digital Strategy & Growth</b><br>
-Driving digital strategy, process improvement, and brand development for a real-world business entity. Focusing on tech-driven growth opportunities.</p>
-
-<br clear="left"/>
-
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" />
-<h4><a href="#">TrustLedger</a></h4>
-<p><b>Security & Transparency Platform</b><br>
-Architecting a proposed platform combining Cloud tech, automation, and AI-powered insights to enforce transparency and security.</p>
-
-<br clear="left"/>
-
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/snake.gif" width="100%" alt="Coding Snake Animation" />
-  <br>
-  <i>"Building systems that scale, automating the rest."</i>
+
+### 💌 thanks for stopping by!
+
+*May your builds pass, your bugs be tiny, and your coffee be warm.* ☕🌷
+
+**made with curiosity, a little caffeine & lots of commits ♡**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,50:C9B6FF,100:8EC5FC&height=100&section=footer" width="100%" alt="" />
+
 </div>
