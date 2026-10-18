@@ -1,80 +1,107 @@
+
 <div align="center">
 
-<img src="./assets/niatren-mark.svg" width="64" alt="Niatren-inspired geometric mark" />
+<img src="./assets/niatren-mark.svg" width="64" alt="Geometric mark" />
 
 # Mogau Mothapo
 
-### Software Engineer · Cloud & AI Engineering
+**Software Engineer · Cloud & AI Engineering**
 
-Building useful software, learning how reliable systems work, and exploring where cloud and AI meet.
+Building software. Exploring intelligent systems.
+Designing for reliability.
 
-[**Portfolio**](https://mogau.niatren.com) &nbsp;·&nbsp;
-[**LinkedIn**](https://www.linkedin.com/in/mogau-mothapo-trener) &nbsp;·&nbsp;
-[**GitHub**](https://github.com/TrenerMogau)
+<br />
+
+<a href="https://mogau.niatren.com">
+  <img src="https://img.shields.io/badge/Portfolio-142B4A?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://github.com/TrenerMogau">
+  <img src="https://img.shields.io/badge/GitHub-142B4A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/mogau-mothapo-trener">
+  <img src="https://img.shields.io/badge/LinkedIn-3977D5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 <img src="./assets/line.svg" width="100%" alt="" />
 
 </div>
 
-## About
+## Profile
 
-I'm a software engineering student at **WeThinkCode_** in Cape Town, South Africa. My foundation is software development, and I'm growing toward **cloud and AI engineering** through practical projects, experimentation, and continuous learning.
+I'm a software engineering student at **WeThinkCode_**, based in Cape Town, South Africa.
 
-- Building a stronger foundation in cloud infrastructure and deployment.
-- Exploring AI-powered applications and practical automation.
-- Interested in system design, secure software, and developer experience.
-- Enjoy collaborating, sharing knowledge, and learning by building.
+My focus is evolving from software development toward **cloud and AI engineering**. I enjoy understanding how systems work beneath the interface, building practical applications, and improving the way software is developed, deployed, and maintained.
 
-## Focus areas
+Currently interested in:
+
+- Cloud architecture and infrastructure
+- AI-powered applications and automation
+- Backend engineering and system design
+- Secure software and reliable delivery pipelines
+
+## Engineering focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
+
 <img src="./assets/icons/code.svg" width="32" alt="" />
 
-**Software engineering**
+### Software engineering
 
-Java, Python, TypeScript, APIs, backend development, and maintainable application design.
+Java, Python, TypeScript, APIs, backend development, and maintainable application architecture.
+
 </td>
 <td width="50%" valign="top">
+
 <img src="./assets/icons/cloud.svg" width="32" alt="" />
 
-**Cloud & delivery**
+### Cloud & infrastructure
 
 Cloud fundamentals, Linux, containers, CI/CD, deployment workflows, and infrastructure.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 <img src="./assets/icons/brain-circuit.svg" width="32" alt="" />
 
-**AI engineering**
+### AI engineering
 
-Exploring AI-enabled products, intelligent workflows, and practical integrations.
+Exploring AI integrations, intelligent applications, and practical automation.
+
 </td>
 <td width="50%" valign="top">
+
 <img src="./assets/icons/shield-check.svg" width="32" alt="" />
 
-**Reliable systems**
+### Reliable systems
 
-Software architecture, security-minded development, testing, and automation.
+Software architecture, testing, security-minded development, and engineering practices.
+
 </td>
 </tr>
 </table>
 
-## Technologies
+## Technology stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,bash,sql&theme=light" alt="Java, Python, TypeScript, JavaScript, Bash and SQL" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,supabase&theme=light" alt="React, Next.js, Node.js, PostgreSQL and Supabase" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,githubactions,gitlab&theme=light" alt="AWS, Azure, Docker, Linux, Git, GitHub, GitHub Actions and GitLab" />
+<strong>Languages</strong><br />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,bash,sql&theme=light" alt="Programming languages" />
 </p>
 
-<sub>My toolkit is evolving as I gain experience. These icons represent technologies I've worked with or am actively learning, not a claim of equal proficiency across all of them.</sub>
+<p>
+<strong>Application development</strong><br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,supabase&theme=light" alt="Application technologies" />
+</p>
+
+<p>
+<strong>Cloud & delivery</strong><br />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,githubactions,gitlab&theme=light" alt="Cloud and development tools" />
+</p>
+
+<sub>These technologies represent a mix of practical experience and active learning; proficiency varies by tool.</sub>
 
 ## Selected work
 
@@ -82,33 +109,56 @@ Software architecture, security-minded development, testing, and automation.
 <tr>
 <td width="50%" valign="top">
 
-**[System Design Compilation](https://github.com/TrenerMogau/system-design-compilation)**
+**Healing Botanicals**
 
-A collection of system-design learning resources and references.
+Client e-commerce platform built with Next.js, TypeScript, Supabase, Cloudflare R2, and email integration.
+
+**Focus:** application development, checkout workflows, and cloud-service integration.
+
 </td>
 <td width="50%" valign="top">
 
-**[SupaCommerce](https://github.com/TrenerMogau/supacommerce)**
+**Robot Worlds**
 
-A commerce-related development project.
+Java client-server team project involving TCP sockets, JSON commands, concurrent client handling, testing, and CI optimisation.
+
+**Focus:** team leadership, backend engineering, and automated delivery.
+
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" valign="top">
 
-**[Portfolio](https://mogau.niatren.com)**
+**System Design Compilation**
 
-More about my work, projects, and current engineering interests.
+A collection of system-design learning resources and technical references.
+
+[Explore the repository →](https://github.com/TrenerMogau/system-design-compilation)
+
 </td>
 </tr>
 </table>
 
-## Currently exploring
+## Current learning
 
-- Cloud-native application design and deployment
-- AI-powered applications and automation
-- CI/CD and container-based development workflows
-- Secure, maintainable software architecture
+<table>
+<tr>
+<td>01</td>
+<td>Cloud-native application design and deployment</td>
+</tr>
+<tr>
+<td>02</td>
+<td>AI engineering and intelligent application workflows</td>
+</tr>
+<tr>
+<td>03</td>
+<td>CI/CD, containers, and infrastructure automation</td>
+</tr>
+<tr>
+<td>04</td>
+<td>Secure, maintainable software architecture</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -116,6 +166,6 @@ More about my work, projects, and current engineering interests.
 
 **Build thoughtfully. Deploy reliably. Keep learning.**
 
-<sub>Cape Town, South Africa · Open to learning, collaboration, and meaningful engineering work</sub>
+<sub>Software engineering · Cloud · AI</sub>
 
 </div>
